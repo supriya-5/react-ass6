@@ -8,7 +8,7 @@ const Detail = (props) => {
 
 {
 
-"Name":"Joe",
+"Name":"vishnu",
 "Age":"25",
 "Course":"HTML",
 "Batch":"August",
@@ -18,7 +18,7 @@ const Detail = (props) => {
 
 {
 
-    "Name":"Biden",
+    "Name":"durga",
     "Age":"27",
     "Course":"Css",
     "Batch":"September",
@@ -27,7 +27,7 @@ const Detail = (props) => {
     },
     {
 
-        "Name":"Martin",
+        "Name":"divya",
         "Age":"27",
         "Course":"React",
         "Batch":"December",
@@ -37,7 +37,7 @@ const Detail = (props) => {
         
         {
         
-            "Name":"Mary",
+            "Name":"swathi",
             "Age":"23",
             "Course":"Nodejs",
             "Batch":"January",
@@ -46,7 +46,7 @@ const Detail = (props) => {
             },
             {
         
-                "Name":"Rosie",
+                "Name":"raji",
                 "Age":"24",
                 "Course":"Database",
                 "Batch":"April",
